@@ -1,0 +1,1 @@
+Verificar se o veiculo viaja dentro do custo-beneficio estimado, com os itens propostos a ele.
